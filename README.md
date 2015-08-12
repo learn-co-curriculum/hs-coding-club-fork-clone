@@ -68,3 +68,7 @@ python -m SimpleHTTPServer 3000
 Once you have the server running, select `preview` and then `port 3000`.
 
 <img src="https://s3.amazonaws.com/after-school-assets/nitrous-preview.png" alt="nitrous preview">
+
+### Step 9
+
+To shut down your server, you can just hit `control` and `c` at the same time. This will work on both Mac's and PC's.
