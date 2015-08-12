@@ -22,6 +22,8 @@ Next you will be prompted for where you want to fork this lab. You'll want to se
 
 <img src="https://s3.amazonaws.com/after-school-assets/fork-to-account.png" alt="select your own account">
 
+The fork button makes a photocopy of the original copy of the lab (Flatiron School's copy). It's just like when you're teacher photocopies a handout for you to work on. She doesn't give you her original copy, because then that would have the answers! 
+
 
 ### Step 4:
 
