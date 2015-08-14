@@ -4,7 +4,7 @@ There's a little bit of work you have to do to get a lab from Learn.co intro Nit
 
 ###Step 1:
 
-In Learn.co, view the lab. Click on `View On Github` in the top left corner:
+In Learn.co, view the lab you would like to be working on. All labs are noted with `Lab` before their name. If you're going through the Weok One material, the lab would `HTML Playground`. In other weeks, the labs might be different. Click on `View On Github` in the top left corner:
 
 <img src="https://s3.amazonaws.com/after-school-assets/view-on-github.png">
 
