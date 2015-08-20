@@ -33,9 +33,13 @@ This command starts up a server automatically for you so you can view the websit
 
 ### Step 4
 
-This little server we just started is just a test server so that you can write HTML and see what it looks like in the browser. It hasn't permanently hosted your site so that other people can visit it. To stop your server once you're done testing, you can just hit `control` and `c` at the same time. It's important to stop your server when you're done viewing in the browser, because you won't be able to start another server to work on another lab, and you won't be able to use your terminal.
+This little server we just started is just a test server so that you can write HTML and see what it looks like in the browser. It hasn't permanently hosted your site so that other people can visit it.
 
-`control` and `c` This will work on both Mac's and PC's. 
+It's important to note that this server is just for testing purposes, which means when you're done testing you should stop the server. If you don't, you won't be able to use your terminal. (Try entering some terminal commands you're familiar with in the terminal while your server is running. You'll notice that you can type in the terminal, but nothing happens.)
+
+To stop your server once you're done testing, you can just hit `control` and `c`. This will work on both Mac's and PC's. 
+
+If in the event that you finish a lesson or lab and don't stop your server, you won't be able start a server in another lab. Just close the original Nitrous window in the browser and you'll be good to go.
 
 If you would like to start your server back up again, you just simply enter:
 
