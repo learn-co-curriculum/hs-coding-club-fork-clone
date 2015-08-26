@@ -1,6 +1,6 @@
 # Opening A Lab
 
-There's a little bit of work you have to do to get a lab from Learn intro Nitrous so we can start working!
+There's a little bit of work you have to do to get a lab from Learn into Nitrous so we can start working!
 
 For this walk-through, we'll be using the `HTML Playground` Lab. These steps will work for whatever lab or lesson you're trying to work on.
 
