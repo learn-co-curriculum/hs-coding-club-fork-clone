@@ -6,9 +6,9 @@ For this walk-through, we'll be using the `HTML Playground` Lab as our example. 
 
 ###Step 1:
 
-In Learn, select the lab and then select `Open in Nitrous`:
+In Learn, select the lab and then select `Open`:
 
-<img src="https://s3.amazonaws.com/after-school-assets/open-in-nitrous.png">
+<img src="https://s3.amazonaws.com/after-school-assets/new-open-in-nitrous.png">
 
 
 ### Step 2:
