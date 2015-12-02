@@ -52,3 +52,5 @@ python -m SimpleHTTPServer 3000
 Once you're done with your work, in Nitrous, in terminal, in the main directory of your lab, you'll want to enter: `learn submit`. This command will push your code up to your GitHub account, and is a great way to build your developer portfolio. You can go to your GitHub profile and check out your repositories. You should see the lab there!
 
 This command will also mark a lab as complete in Learn. You should see the `PULL REQUEST` light turn green in the right hand column!
+
+<a href='https://learn.co/lessons/hs-coding-club-fork-clone' data-visibility='hidden'>View this lesson on Learn.co</a>
