@@ -53,4 +53,4 @@ Once you're done with your work, in Nitrous, in terminal, in the main directory 
 
 This command will also mark a lab as complete in Learn. You should see the `PULL REQUEST` light turn green in the right hand column!
 
-<a href='https://learn.co/lessons/hs-coding-club-fork-clone' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-fork-clone' title='Opening A Lab'>Opening A Lab</a> on Learn.co and start learning to code for free.</p>
